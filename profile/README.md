@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./point-logo.png" alt="Point" width="56" />
+  <img src="./point-logo.png" alt="Point" width="72" />
 </p>
 
 <h1 align="center">Hatching Point</h1>
