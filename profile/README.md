@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HatchingPoint/.github/assets/46502865/cc3a10d2-5233-46a8-bab9-95e1e508b642" alt="Hatching Point" width="72" />
+  <img src="./point-logo.png" alt="Point" width="56" />
 </p>
 
 <h1 align="center">Hatching Point</h1>

@@ -1,2 +1,5 @@
-![hp](https://github.com/HatchingPoint/.github/assets/46502865/cc3a10d2-5233-46a8-bab9-95e1e508b642)
+<p align="center">
+  <img src="./profile/point-logo.png" alt="Point" width="56" />
+</p>
 
+<p align="center"><strong>Hatching Point</strong> — home of <a href="https://github.com/HatchingPoint/point">Point</a>.</p>
