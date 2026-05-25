@@ -45,7 +45,7 @@ Point and Hatching Point are founded by:
 | | GitHub |
 |---|---|
 | **Raymond** | [@raymondreaming](https://github.com/raymondreaming) |
-| **Jamie** | [@numbercutter](https://github.com/numbercutter) |
+| **Mitch** | [@numbercutter](https://github.com/numbercutter) |
 | **Andy Sottiaux** | [@Andy-Sottiaux](https://github.com/Andy-Sottiaux) |
 
 We are a small product team that ships focused tools quickly — mobile apps, utilities, and now the language we wanted agents to program in from day one.
